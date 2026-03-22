@@ -22,8 +22,8 @@ Frontend developer focused on building clean, visually structured interfaces wit
 ## 📊 GitHub Stats
 
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=default&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pvdrvv&show_icons=true&theme=default&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvdrvv&layout=compact&hide_border=true"/>
 </div>
 
 ---
